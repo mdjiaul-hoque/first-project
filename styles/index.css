@@ -226,12 +226,24 @@ main{
 
 .fuch-section img{
     border-radius: 48px;
+    width: 100%;
 }
 .fuch-section{
     margin-top: 96px;
     text-align: center;
     border-radius: 14px;
     background-color: #FFFFFF;
+    display: flex;
+   justify-content: center;
+    
+    
+}
+
+
+.fuch-section .abc {
+     display: flex;
+     flex-direction: column;
+      margin: 0 150px 71px 150px;
 }
 
 .fuch-section p{
