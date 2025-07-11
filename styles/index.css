@@ -147,3 +147,36 @@ main{
 .product-user .box-content .box{
     
 }
+
+/* user say */
+
+.user-say-conteiner{
+    width: 366.67px;
+    height: 243px;
+    background-color: rgba(255, 255, 255, 0.5);
+    border-radius: 10px;
+    padding: 30px;
+    border: 1px solid #F2EDED;
+}
+.user-say .user-text{
+    font-size: 42px;
+    font-weight: 700;
+    color: rgb(37, 36, 50);
+}
+.user-say{
+    
+    margin-top: 96px;
+    text-align: center;
+}
+.user-say .user-pak{
+    display: flex;
+    gap: 20px;
+    text-align: left;
+}
+.user-say .us-content img{
+   
+    width: 40px;
+    height: 40px;
+    border-radius: 50% ;
+}
+.user-say .us-content{
