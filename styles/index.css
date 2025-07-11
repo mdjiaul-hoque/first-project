@@ -38,3 +38,32 @@ button{
  background-image: url('../Assets/Hero-bg.png');
  
 }
+
+/* navigation */
+
+.nav-section{
+   
+    max-width: 1140px;
+    margin: 0 auto;
+    
+}
+.header .nav-section .logo{
+    font-size: 34px;
+    font-weight: 900;
+    color: #4E47FF;
+}
+.nav-section nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-section button{
+    margin: 0;
+}
+
+.nav-section ul li{
+    list-style: none;
+}
+.nav-section ul li a{
+    text-align: none;
+}
