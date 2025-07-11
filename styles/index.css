@@ -67,3 +67,25 @@ button{
 .nav-section ul li a{
     text-align: none;
 }
+
+/* hero */
+
+.hero-section{
+   
+    text-align: center;
+
+}
+.hero-section .hero-items{
+   
+    padding: 58px 167.5px 152px 167.5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.hero-section h2{
+     font-size: 65px;
+    font-weight: 700;
+    color: rgb(37, 36, 50);
+}
+
