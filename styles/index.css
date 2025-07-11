@@ -298,3 +298,35 @@ main{
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+.footer-section p , a{
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(137, 135, 161);
+}
+.footer-section h1{
+   font-size: 100px;
+   font-weight: 900;
+    color: #4E47FF;
+    margin-bottom: 8px;
+}
+
+.footer-section .footer-link a{
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+footer a:hover{
+    color: #4E47FF;
+}
+
+/* chalange-part */
+
+button:hover{
+    background-color:lightblue;
+    color: #000;
+    transform: scale(1.25);
+    /* transform: scale(.85); */
+    
+}
