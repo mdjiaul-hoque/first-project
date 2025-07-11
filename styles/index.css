@@ -139,3 +139,11 @@ main{
     margin-bottom: 0px;
     margin-top: 40px;
 }
+.product-user .box-content{
+
+    display: flex;
+    gap: 161px;
+}
+.product-user .box-content .box{
+    
+}
