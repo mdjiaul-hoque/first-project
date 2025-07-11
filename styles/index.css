@@ -89,3 +89,26 @@ button{
     color: rgb(37, 36, 50);
 }
 
+/* action */
+
+
+main{
+    width: 80%;
+    margin: 96px auto;
+}
+
+.action-section{
+    display: flex;
+    /* padding: 30px; */
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    
+}
+.action-section .action-text{
+    width: 50%;
+}
+.action-section img{
+    width: 40%;
+    border-radius: 40px;
+}
