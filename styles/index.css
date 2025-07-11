@@ -208,3 +208,32 @@ main{
     font-weight: 400;
     color: #1E1E1E;
 }
+.user-say .us-content .say-tex p{
+    margin-top:1px ;
+     font-size: 16px;
+    font-weight: 400;
+    color: rgb(179, 179, 179);
+}
+.user-say .say-tex h6{
+    margin-bottom:1px ;
+    font-size: 16px;
+    font-weight: 600;
+    color: rgb(117, 117, 117);
+}
+
+
+/* fouc section */
+
+.fuch-section img{
+    border-radius: 48px;
+}
+.fuch-section{
+    margin-top: 96px;
+    text-align: center;
+    border-radius: 14px;
+}
+
+.fuch-section p{
+    font-size: 16px;
+    color:rgba(0, 0, 0, 0.5);
+}
