@@ -58,7 +58,7 @@ button{
     align-items: center;
 }
 .nav-section button{
-    margin: 0;
+    /* margin: 0; */
 }
 
 .nav-section ul li{
@@ -102,7 +102,7 @@ main{
     /* padding: 30px; */
     justify-content: space-between;
     align-items: center;
-    margin: 0 auto;
+    /* margin: 0 auto; */
     
 }
 .action-section .action-text{
@@ -144,9 +144,7 @@ main{
     display: flex;
     gap: 161px;
 }
-.product-user .box-content .box{
-    
-}
+
 
 /* user say */
 
@@ -313,7 +311,7 @@ main{
    
     text-align: center;
     background-color: rgb(255, 255, 255);
-    max-width: 1440px;
+    width: 100%;
     height: 428px;
     text-align: center;
     display: flex;
